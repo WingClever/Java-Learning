@@ -1,0 +1,1 @@
+Entering the path for software development with review learning in Java.  The goal is build a base and from that base learn other lang to build complex IoT to solve the challenge of needing equipment to do specialized ops.
